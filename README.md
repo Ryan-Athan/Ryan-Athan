@@ -61,9 +61,9 @@ Here’s a glimpse of the tools and technologies I work with:
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryan-Ryan-10&show_icons=true&theme=radical" alt="Ryan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryan-Athan&show_icons=true&theme=radical" alt="Ryan's GitHub Stats" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Ryan-10&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Athan&layout=compact&theme=radical)
 
 
