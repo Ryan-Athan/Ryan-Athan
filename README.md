@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm **Ryan**
 
-Welcome to my GitHub! I'm a **passionate software developer** and a **student at the National University of Computer Studies**, always seeking to combine creativity and technology to build exciting projects.
+Welcome to my GitHub! My Myanmar name is **Thar Nyi Phyo**. I'm a **passionate software developer** and a **student at the National University of Computer Studies**, always seeking to combine creativity and technology to build exciting projects.
 
 ![Banner](https://i.pinimg.com/564x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg)
 
